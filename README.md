@@ -25,5 +25,5 @@ Download the patch [here](./tftd_v21_lang.zip)
 Patches compiled by sakaali, the IP is owned by MicroProse / 2K Games. Translation credits listed within the respective archives.
 
 You can purchase the original games below:
-[UFO: Enemy Unknown](https://www.gog.com/game/xcom_ufo_defense)
-[X-Com: Terror From The Deep](https://www.gog.com/game/xcom_terror_from_the_deep)
+ - [UFO: Enemy Unknown](https://www.gog.com/game/xcom_ufo_defense)
+ - [X-Com: Terror From The Deep](https://www.gog.com/game/xcom_terror_from_the_deep)
