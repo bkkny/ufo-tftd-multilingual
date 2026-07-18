@@ -8,7 +8,7 @@ Please note that you need to own the original game to be able to install the pat
 
 Extract the archive into your UFOEU directory and run UFOEU.BAT to select your language.
 
-Download the patch [here](./ufoeu_6in1_language_patch.zip) (right click and "Save link as")
+Download the patch [here](./ufoeu_6in1_language_patch.zip)
 
 ## X-Com: Terror From The Deep (DOS, 1995)
 
@@ -18,7 +18,7 @@ Please note that you need to own the original game to be able to install the pat
 
 Extract the archive into your TFTD directory and run TFTD.BAT to select your language.
 
-Download the patch [here](./tftd_v21_lang.zip) (right click and "Save link as")
+Download the patch [here](./tftd_v21_lang.zip)
 
 ---
 
